@@ -2,7 +2,7 @@
 
 This project is a 3D Rubik's Cube simulation built using Python and the PyRay library. The simulation can generate random movements for the Rubik's Cube and visually display the rotations in a window.
 
-
+![Rubik's Cube Simulation](rubik.gif)
 
 ## Table of Contents
 
@@ -58,7 +58,8 @@ The main script that initializes the PyRay window, sets the target FPS, generate
 Contributions are welcome! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License [MIT License](LICENSE).
+
 
 ## Acknowledgments
 PyRay - Python bindings for raylib, the library used for rendering.
